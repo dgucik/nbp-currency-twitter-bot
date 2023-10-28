@@ -1,0 +1,9 @@
+{
+  "keys": {
+    "API_KEY": "XXX",
+    "API_KEY_SECRET": "XXX",
+    "BEARER_TOKEN": "XXX",
+    "ACCESS_TOKEN": "XXX",
+    "ACCESS_TOKEN_SECRET": "XXX"
+  }
+}
